@@ -1,6 +1,6 @@
 # Json-dataset-restapi
 REST API for JSON dataset management using Java Spring Boot and MySQL
-# FreightFox – JSON Dataset Management API
+# JSON Dataset Management API
 
 A RESTful backend application developed using **Java, Spring Boot, and MySQL** to manage JSON datasets. The application provides APIs to create, retrieve, and manage datasets through HTTP requests.
 
